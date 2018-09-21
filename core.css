@@ -1,0 +1,14 @@
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#echo-btn {
+    width: 10em;
+    height: 10em;
+    font-size: large;
+}
